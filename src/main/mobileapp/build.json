@@ -1,0 +1,1 @@
+{"android":{"debug":{}},"ios":{"debug":{"codeSignIdentity":"iPhone Developer","developmentTeam":"","packageType":"development","automaticProvisioning":false,"provisioningProfile":"","provisioningProfileFile":"","certificateFile":"","certificatePassword":"","remoteBuildServer":"http://ios-rb.cronapp.io"},"release":{}}}

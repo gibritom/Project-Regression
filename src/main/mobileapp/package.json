@@ -1,0 +1,12 @@
+{
+  "name": "io.cronapp.apps.projectregression",
+  "displayName": "Project-Regression",
+  "version": "1.0.0",
+  "description": "Project-Regression",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CronApp IDE",
+  "license": "Apache-2.0"
+}

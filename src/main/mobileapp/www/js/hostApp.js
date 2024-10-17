@@ -1,0 +1,1 @@
+window.hostApp = '666/';
