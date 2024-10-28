@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61639082550",
+    "project_id": "qa-cron",
+    "storage_bucket": "qa-cron.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61639082550:android:3c28b90d73c1b6ab940e97",
+        "android_client_info": {
+          "package_name": "io.cronapp.apps.projectregression"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0dlQpQldr3TN_w2WYuQlO0xoJ7niCRRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
