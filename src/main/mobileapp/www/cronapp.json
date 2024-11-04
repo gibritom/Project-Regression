@@ -1,0 +1,4 @@
+{
+  "cronapp.framework.mobile.logoutroute": "views/login.view.html",
+  "cronapp.framework.mobile.mainroute": "views/login.view.html"
+}

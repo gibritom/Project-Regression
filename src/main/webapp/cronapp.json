@@ -1,1 +1,5 @@
-{}
+{
+  "cronapp.framework.auth.idletime": "0",
+  "cronapp.framework.web.mainroute": "views/login.view.html",
+  "cronapp.framework.web.logoutroute": "views/login.view.html"
+}
